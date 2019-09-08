@@ -13,7 +13,7 @@ function config($key = '')
         'site_url' => 'https://adams-first-app-that-is-a-test.herokuapp.com',
         'nav_menu' => [
             '' => 'Home',
-            'about-me' => 'About Me'
+            'about-me' => 'About Me',
             'hari' => 'Hari'
         ],
         'template_path' => 'template',
